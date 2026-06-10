@@ -26,6 +26,7 @@ cloud required, no vendor lock-in.
 ## Goals
 
 - Affordable, fully open hardware, software and firmware
+- Home appliance product quality - not a throwaway build
 - Easy to build, with step-by-step zero-to-hero instructions
 - 2D LiDAR mapping and autonomous navigation (ROS2 / Nav2)
 - Native Home Assistant integration for local control
