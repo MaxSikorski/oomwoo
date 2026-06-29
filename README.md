@@ -5,7 +5,7 @@
  **The open-source robot vacuum you build yourself.**
 
  Raspberry Pi · ROS2 · Home Assistant · 2D LiDAR · 3D printed · ESP32 · Arduino
-+
+
 📖 **New here?** Read the story behind the project: [Building an Open-Source Robot Vacuum — Meet oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
 
 ![License](https://img.shields.io/badge/license-Apache--2.0-blue)
